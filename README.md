@@ -1,0 +1,2 @@
+# NewTrial
+How Git works?
